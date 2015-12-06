@@ -1,4 +1,5 @@
 ### HEAD
+* Update to PHP 7.0 and remove HHVM ([#432](https://github.com/roots/trellis/pull/432))
 * Add tags to select includes and tasks ([#453](https://github.com/roots/trellis/pull/453))
 * Improve Git deploy implementation via `git archive` ([#451](https://github.com/roots/trellis/pull/451))
 * Replace strip_www with optional redirect to www/non-www ([#452](https://github.com/roots/trellis/pull/452))
